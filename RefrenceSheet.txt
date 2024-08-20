@@ -1,0 +1,7 @@
+"" is a program lingo keyword
+*-main point
+- subject of main point 
++ 2nd underlying clause
+`3rd underlaying clause
+#of jus us indentions
+#this is a comment
